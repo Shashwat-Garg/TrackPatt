@@ -1,3 +1,4 @@
+sudo rm /dev/lockScreen
 make clean
 sudo dmesg -C
 make all
